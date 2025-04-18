@@ -1,3 +1,1 @@
-Once upon a time, in a village named "Init", lived a brave adventurer named Git.
-\nGit was well-known for his curiosity and eagerness to learn.\nHe had one dream - to explore the mysterious world of Version Control.
-\nHis journey was not going to be easy, but he was determined.
+Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
